@@ -1,0 +1,41 @@
+﻿<Page x:Class="haliSahaOdev.PageScreens.ReservationAttempt"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:haliSahaOdev.PageScreens"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="700"
+      Title="ReservationAttempt"
+      Background="Bisque">
+
+    <Grid>
+        <Label Foreground="Black" Margin="10,10,541,410">Tarih Seçin</Label>
+        <Label Foreground="Black" Margin="10,50,541,370">Saat Seçin</Label>
+        <ComboBox Name="cmbSaat" Margin="207,50,250,370">
+            <ComboBoxItem>09.00-10.00</ComboBoxItem>
+            <ComboBoxItem>10.00-11.00</ComboBoxItem>
+            <ComboBoxItem>11.00-12.00</ComboBoxItem>
+            <ComboBoxItem>12.00-13.00</ComboBoxItem>
+            <ComboBoxItem>13.00-14.00</ComboBoxItem>
+        </ComboBox>
+        <Label Foreground="Black" Margin="10,90,541,330">Halı Saha Seçin</Label>
+
+
+
+
+        <Label Foreground="Black" Margin="10,146,493,274">Rezervasyon Sahibi:</Label>
+        <TextBox Name="note" Margin="207,146,250,242" />
+        <Label Foreground="Black" Margin="10,404,562,10">Halı Saha Ücreti:</Label>
+        <Button Name="btnSaveResAttempt" Content="Kaydet" Background="FloralWhite" Click="BtnSaveResAttempt_Click" Margin="562,338,25,61" />
+        <DatePicker HorizontalAlignment="Left" Margin="207,11,0,0" VerticalAlignment="Top" Width="243" Height="30" SelectedDateChanged="Tarih_SelectedDateChanged"/>
+
+
+        <Label Name="sahaAd" Content="Rezervasyon yapılan sahanın adı:" HorizontalAlignment="Left" Margin="25,249,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.43,0.74"/>
+        <Label Name="sahaFiyat" Content="Rezervasyon yapılan sahanın fiyatı:" HorizontalAlignment="Left" Margin="25,299,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.43,0.74"/>
+        <Label Name="sahaKapasite" Content="Rezervasyon yapılan sahanın kapasitesi:" HorizontalAlignment="Left" Margin="25,348,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.43,0.74"/>
+
+        <ComboBox Name="cmbSaha" Margin="207,90,250,330" RenderTransformOrigin="0.52,1.162" SelectionChanged="CmbSaha_SelectionChanged"></ComboBox>
+
+    </Grid>
+</Page>

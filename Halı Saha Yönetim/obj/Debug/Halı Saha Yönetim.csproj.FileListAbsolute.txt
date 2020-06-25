@@ -1,0 +1,106 @@
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe.config
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.pdb
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csprojAssemblyReference.cache
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\MainWindow.g.cs
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationAttempt.g.cs
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationShow.g.cs
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\Settings.g.cs
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\App.g.cs
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.cache
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.lref
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\MainWindow.baml
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationAttempt.baml
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationShow.baml
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\Settings.baml
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.g.resources
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.Properties.Resources.resources
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csproj.GenerateResource.cache
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.exe
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.pdb
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_Content.g.cs
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.dll
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.xml
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erkan\Desktop\Görsel3 Final\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csproj.CopyComplete
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csprojAssemblyReference.cache
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\MainWindow.g.cs
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationAttempt.g.cs
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationShow.g.cs
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\Settings.g.cs
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\App.g.cs
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_Content.g.cs
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.cache
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.lref
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.exe
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.pdb
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe.config
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.pdb
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.dll
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.xml
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\MainWindow.baml
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationAttempt.baml
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationShow.baml
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\Settings.baml
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.g.resources
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.Properties.Resources.resources
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csproj.GenerateResource.cache
+C:\Users\Erkan\Desktop\görselFinal\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csproj.CopyComplete
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csprojAssemblyReference.cache
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\MainWindow.g.cs
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationAttempt.g.cs
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationShow.g.cs
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\Settings.g.cs
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\App.g.cs
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_Content.g.cs
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.cache
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.lref
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.exe
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.pdb
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe.config
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.pdb
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.dll
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.xml
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\MainWindow.baml
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationAttempt.baml
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationShow.baml
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\Settings.baml
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.g.resources
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.Properties.Resources.resources
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csproj.GenerateResource.cache
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csproj.CoreCompileInputs.cache
+C:\Users\Eyüp\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csproj.CopyComplete
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe.config
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.pdb
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.dll
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.xml
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csprojAssemblyReference.cache
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\MainWindow.g.cs
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationAttempt.g.cs
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationShow.g.cs
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\Settings.g.cs
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\App.g.cs
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_Content.g.cs
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.cache
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.lref
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\MainWindow.baml
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationAttempt.baml
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationShow.baml
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\Settings.baml
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.g.resources
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.Properties.Resources.resources
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csproj.GenerateResource.cache
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csproj.CoreCompileInputs.cache
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.csproj.CopyComplete
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.exe
+C:\Users\berk_\OneDrive\Masaüstü\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.pdb
